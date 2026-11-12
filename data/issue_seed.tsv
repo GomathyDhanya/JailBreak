@@ -1,0 +1,50 @@
+Login|Safari login displays a spinner after a correct password is submitted.
+Login|The password-reset confirmation screen intermittently fails to load.
+Login|The Remember Me checkbox loses its selected state after refresh.
+Login|The session-expiry banner appears twice on the account page.
+Login|The single-sign-on button has inconsistent spacing on small screens.
+Search|Switching projects sometimes retains the previous project's search filter.
+Search|The results counter updates before the result cards have finished loading.
+Search|Search suggestions duplicate entries when the query includes a hyphen.
+Search|Searching by issue number requires an unexpected leading zero.
+Search|The search history popup clips long issue titles.
+Notifications|The notification-preferences toggle flashes before preferences load.
+Notifications|Unread notification counts occasionally lag behind the inbox view.
+Notifications|The notification bell icon has insufficient contrast in dark mode.
+Notifications|The notification settings page loses keyboard focus after saving.
+Notifications|The weekly digest preview truncates long project names.
+Import Export|Exporting a CSV sometimes omits an empty trailing field.
+Import Export|The import progress indicator pauses at ninety-nine percent.
+Import Export|Dates in exported spreadsheets use inconsistent locales.
+Import Export|Import validation errors are displayed out of their original row order.
+Import Export|The download filename fails to include the selected project name.
+Mobile|The mobile navigation menu overlaps the issue heading in landscape mode.
+Mobile|The save button becomes partly hidden behind the software keyboard.
+Mobile|The mobile calendar picker scrolls unexpectedly after selecting a date.
+Mobile|The side drawer remains open after following a project link.
+Mobile|The attachment preview cannot be closed with the device back gesture.
+Accessibility|Keyboard navigation skips the second tab in the project settings page.
+Accessibility|The chart tooltip is not announced by screen readers.
+Accessibility|The issue status colors are difficult to distinguish at low contrast.
+Accessibility|The modal close button is missing an accessible label.
+Accessibility|Focus returns to the wrong input after dismissing an edit dialog.
+Profile|An uploaded portrait avatar is stretched in the user menu.
+Profile|Updating the display name does not refresh the team directory immediately.
+Profile|The timezone selector resets after saving notification preferences.
+Profile|The profile biography editor loses extra line breaks.
+Profile|The account settings page uses a different date format from the profile page.
+Dashboard|Two dashboard legends display inconsistent date labels.
+Dashboard|A dashboard widget briefly shows stale totals after changing projects.
+Dashboard|The task completion chart shows an incorrect hover position.
+Dashboard|The refresh indicator remains visible after data has loaded.
+Dashboard|Reordering dashboard cards sometimes shifts the wrong card.
+Issue Tracker|The issue label picker closes after choosing the first label.
+Issue Tracker|The attachment counter doesn't update until the issue is reopened.
+Issue Tracker|The issue due-date field rejects otherwise valid local dates.
+Issue Tracker|The assignee dropdown truncates long team-member display names.
+Issue Tracker|The issue activity timeline orders simultaneous edits inconsistently.
+Integrations|A calendar integration shows duplicate events after reconnecting.
+Integrations|The webhook test screen displays an outdated last-run timestamp.
+Integrations|The integration status badge updates slowly after authorization.
+Integrations|The API-token description field does not retain its formatting.
+Integrations|The third-party connection panel clips an unusually long provider name.

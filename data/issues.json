@@ -1,0 +1,252 @@
+[
+  {
+    "id": "ISS-001",
+    "title": "Login",
+    "description": "Safari login displays a spinner after a correct password is submitted."
+  },
+  {
+    "id": "ISS-002",
+    "title": "Login",
+    "description": "The password-reset confirmation screen intermittently fails to load."
+  },
+  {
+    "id": "ISS-003",
+    "title": "Login",
+    "description": "The Remember Me checkbox loses its selected state after refresh."
+  },
+  {
+    "id": "ISS-004",
+    "title": "Login",
+    "description": "The session-expiry banner appears twice on the account page."
+  },
+  {
+    "id": "ISS-005",
+    "title": "Login",
+    "description": "The single-sign-on button has inconsistent spacing on small screens."
+  },
+  {
+    "id": "ISS-006",
+    "title": "Search",
+    "description": "Switching projects sometimes retains the previous project's search filter."
+  },
+  {
+    "id": "ISS-007",
+    "title": "Search",
+    "description": "The results counter updates before the result cards have finished loading."
+  },
+  {
+    "id": "ISS-008",
+    "title": "Search",
+    "description": "Search suggestions duplicate entries when the query includes a hyphen."
+  },
+  {
+    "id": "ISS-009",
+    "title": "Search",
+    "description": "Searching by issue number requires an unexpected leading zero."
+  },
+  {
+    "id": "ISS-010",
+    "title": "Search",
+    "description": "The search history popup clips long issue titles."
+  },
+  {
+    "id": "ISS-011",
+    "title": "Notifications",
+    "description": "The notification-preferences toggle flashes before preferences load."
+  },
+  {
+    "id": "ISS-012",
+    "title": "Notifications",
+    "description": "Unread notification counts occasionally lag behind the inbox view."
+  },
+  {
+    "id": "ISS-013",
+    "title": "Notifications",
+    "description": "The notification bell icon has insufficient contrast in dark mode."
+  },
+  {
+    "id": "ISS-014",
+    "title": "Notifications",
+    "description": "The notification settings page loses keyboard focus after saving."
+  },
+  {
+    "id": "ISS-015",
+    "title": "Notifications",
+    "description": "The weekly digest preview truncates long project names."
+  },
+  {
+    "id": "ISS-016",
+    "title": "Import Export",
+    "description": "Exporting a CSV sometimes omits an empty trailing field."
+  },
+  {
+    "id": "ISS-017",
+    "title": "Import Export",
+    "description": "The import progress indicator pauses at ninety-nine percent."
+  },
+  {
+    "id": "ISS-018",
+    "title": "Import Export",
+    "description": "Dates in exported spreadsheets use inconsistent locales."
+  },
+  {
+    "id": "ISS-019",
+    "title": "Import Export",
+    "description": "Import validation errors are displayed out of their original row order."
+  },
+  {
+    "id": "ISS-020",
+    "title": "Import Export",
+    "description": "The download filename fails to include the selected project name."
+  },
+  {
+    "id": "ISS-021",
+    "title": "Mobile",
+    "description": "The mobile navigation menu overlaps the issue heading in landscape mode."
+  },
+  {
+    "id": "ISS-022",
+    "title": "Mobile",
+    "description": "The save button becomes partly hidden behind the software keyboard."
+  },
+  {
+    "id": "ISS-023",
+    "title": "Mobile",
+    "description": "The mobile calendar picker scrolls unexpectedly after selecting a date."
+  },
+  {
+    "id": "ISS-024",
+    "title": "Mobile",
+    "description": "The side drawer remains open after following a project link."
+  },
+  {
+    "id": "ISS-025",
+    "title": "Mobile",
+    "description": "The attachment preview cannot be closed with the device back gesture."
+  },
+  {
+    "id": "ISS-026",
+    "title": "Accessibility",
+    "description": "Keyboard navigation skips the second tab in the project settings page."
+  },
+  {
+    "id": "ISS-027",
+    "title": "Accessibility",
+    "description": "The chart tooltip is not announced by screen readers."
+  },
+  {
+    "id": "ISS-028",
+    "title": "Accessibility",
+    "description": "The issue status colors are difficult to distinguish at low contrast."
+  },
+  {
+    "id": "ISS-029",
+    "title": "Accessibility",
+    "description": "The modal close button is missing an accessible label."
+  },
+  {
+    "id": "ISS-030",
+    "title": "Accessibility",
+    "description": "Focus returns to the wrong input after dismissing an edit dialog."
+  },
+  {
+    "id": "ISS-031",
+    "title": "Profile",
+    "description": "An uploaded portrait avatar is stretched in the user menu."
+  },
+  {
+    "id": "ISS-032",
+    "title": "Profile",
+    "description": "Updating the display name does not refresh the team directory immediately."
+  },
+  {
+    "id": "ISS-033",
+    "title": "Profile",
+    "description": "The timezone selector resets after saving notification preferences."
+  },
+  {
+    "id": "ISS-034",
+    "title": "Profile",
+    "description": "The profile biography editor loses extra line breaks."
+  },
+  {
+    "id": "ISS-035",
+    "title": "Profile",
+    "description": "The account settings page uses a different date format from the profile page."
+  },
+  {
+    "id": "ISS-036",
+    "title": "Dashboard",
+    "description": "Two dashboard legends display inconsistent date labels."
+  },
+  {
+    "id": "ISS-037",
+    "title": "Dashboard",
+    "description": "A dashboard widget briefly shows stale totals after changing projects."
+  },
+  {
+    "id": "ISS-038",
+    "title": "Dashboard",
+    "description": "The task completion chart shows an incorrect hover position."
+  },
+  {
+    "id": "ISS-039",
+    "title": "Dashboard",
+    "description": "The refresh indicator remains visible after data has loaded."
+  },
+  {
+    "id": "ISS-040",
+    "title": "Dashboard",
+    "description": "Reordering dashboard cards sometimes shifts the wrong card."
+  },
+  {
+    "id": "ISS-041",
+    "title": "Issue Tracker",
+    "description": "The issue label picker closes after choosing the first label."
+  },
+  {
+    "id": "ISS-042",
+    "title": "Issue Tracker",
+    "description": "The attachment counter doesn't update until the issue is reopened."
+  },
+  {
+    "id": "ISS-043",
+    "title": "Issue Tracker",
+    "description": "The issue due-date field rejects otherwise valid local dates."
+  },
+  {
+    "id": "ISS-044",
+    "title": "Issue Tracker",
+    "description": "The assignee dropdown truncates long team-member display names."
+  },
+  {
+    "id": "ISS-045",
+    "title": "Issue Tracker",
+    "description": "The issue activity timeline orders simultaneous edits inconsistently."
+  },
+  {
+    "id": "ISS-046",
+    "title": "Integrations",
+    "description": "A calendar integration shows duplicate events after reconnecting."
+  },
+  {
+    "id": "ISS-047",
+    "title": "Integrations",
+    "description": "The webhook test screen displays an outdated last-run timestamp."
+  },
+  {
+    "id": "ISS-048",
+    "title": "Integrations",
+    "description": "The integration status badge updates slowly after authorization."
+  },
+  {
+    "id": "ISS-049",
+    "title": "Integrations",
+    "description": "The API-token description field does not retain its formatting."
+  },
+  {
+    "id": "ISS-050",
+    "title": "Integrations",
+    "description": "The third-party connection panel clips an unusually long provider name."
+  }
+]
